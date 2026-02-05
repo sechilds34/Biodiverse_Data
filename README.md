@@ -24,3 +24,5 @@ Interactive data analytics dashboard built with Streamlit and SQL to explore bio
 pip install -r requirments.txt
 streamlit run app/streamlit_app.py
 
+## Motivation 
+This project was built to demonstrate end-to-end data analytics. From writing complex SQL queries, to exposing insights through an interactive dashboard, to structuring a maintainable Python codebase suitable for production-style workflows.
