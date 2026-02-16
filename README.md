@@ -1,6 +1,6 @@
 # National Parks Biodiversity Dashboard
 
-Interactive data analytics dashboard built with Streamlit and SQL to explore biodiveristy trends across the U.S. National Parks using a MySQL database.
+An interactive data analytics dashboard built with Streamlit and SQL to explore biodiversity trends across the U.S. National Parks using a MySQL database.
 
 ## Features
 - Prebuilt analytical SQL queries selectable via UI
